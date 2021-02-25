@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Vajith!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Vajith!](https://vajithChamuditha-99.github.io) 👋
 <br />
 <br />
 
