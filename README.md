@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Java Javascript Angular Playframeworks Php
 - 🌱 I’m currently learning TypeScript Nodejs React React-native
 - 👯 I’m looking to collaborate on Java React
-- 📫 How to reach me: <a href="www.linkedin.com/in/vajith-chamuditha-9545b7195" target="blank">Click here</a>
+- 📫 How to reach me: <a href="www.linkedin.com/in/vajith-chamuditha-9545b7195">Click here</a>
 <br/>
 <br/>
 **Languages and Tools:**  
