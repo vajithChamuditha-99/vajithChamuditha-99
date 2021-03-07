@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-<h3 align="left">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</h3>
+<h3 align="left"><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</b></h3>
 <p align="left">
 <br/>
 <a href="https://codepen.io/vajithChamuditha-99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vajithChamuditha-99" height="30" width="40" /></a>
