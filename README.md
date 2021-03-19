@@ -22,6 +22,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <br/>
+
+![](https://visitor-badge.glitch.me/badge?page_id=vajithChamuditha-99)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8)](https://github.com/vajithChamuditha-99/github-readme-stats) 
+ 
+![Vajith's github stats](https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)
+
 <br/>
 <h3 align="left"><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</b></h3>
 <p align="left">
