@@ -53,7 +53,6 @@
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 
 </p>
-
 <br/>
 
 ![nice day](https://i.pinimg.com/originals/0c/ea/a2/0ceaa250a0d8142f300a87e5d104fbc2.gif)
