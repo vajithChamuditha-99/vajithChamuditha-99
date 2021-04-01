@@ -1,7 +1,6 @@
 
 ### Hi there, I'm [Vajith!](https://github.com/vajithChamuditha-99) 👋
 <br />
-
 <br />
 
 - 🔭 I’m currently working on Java Javascript Angular Playframeworks Php Python
