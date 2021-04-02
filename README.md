@@ -8,7 +8,7 @@
 - 📫 How to reach me: <a href="http://linkedin.com/in/vajith-chamuditha-9545b7195">Click here :) </a>
 <br/>
 
-<h3><b>Languages and Tools : </b> </h3>
+<h3> <b>Languages and Tools : </b> </h3>
 <p>
 </p>
 
