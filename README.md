@@ -3,7 +3,6 @@
 <br />
 <br />
 
-
 - 🔭 I’m currently working on Java Javascript Angular Playframeworks Php Python
 - 🌱 I’m currently learning TypeScript Nodejs React React-native Algorithms Vue.js
 - 👯 I’m looking to collaborate on Java React React-native
