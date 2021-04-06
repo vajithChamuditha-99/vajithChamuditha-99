@@ -28,6 +28,7 @@
 ![Vajith's github stats](https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)
 
 <br/>
+
 <h3 align="left"><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</b></h3>
 <p align="left">
 
