@@ -33,7 +33,6 @@
 <h3 align="left"><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</b></h3>
 
 <p align="left">
-
 <a href="https://codepen.io/vajithChamuditha-99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vajithChamuditha-99" height="30" width="40" /></a>
 <a href="https://dev.to/vajithchamuditha99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vajithchamuditha99" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
