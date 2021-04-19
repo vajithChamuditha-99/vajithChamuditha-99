@@ -28,9 +28,17 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8)](https://github.com/vajithChamuditha-99/github-readme-stats) 
- 
-![Vajith's github stats](https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)
+![Vajiths's github stats](https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=vajithChamuditha-99&theme=react-dark)](https://github.com/vajithChamuditha-99)
+
 
 <br/>
 <h3 align="left"><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</b></h3>
