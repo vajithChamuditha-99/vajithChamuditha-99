@@ -2,8 +2,8 @@
 ### Hi there, I'm [Vajith!](https://github.com/vajithChamuditha-99) 👋
 <br />
 
-- 🔭 I’m currently working on Java Javascript React Playframeworks Php Python
-- 🌱 I’m currently learning TypeScript Nodejs Angular React-native Algorithms Vue.js
+- 🔭 I’m currently working on Java Javascript React React-native Playframeworks Php Python
+- 🌱 I’m currently learning TypeScript Nodejs Angular Algorithms Vue.js
 - 👯 I’m looking to collaborate on Java React React-native
 - 📫 How to reach me: <a href="http://linkedin.com/in/vajith-chamuditha-9545b7195">Click here :) </a> 
 <br/>
