@@ -1,6 +1,7 @@
 
 ### Hi there, I'm [Vajith!](https://github.com/vajithChamuditha-99) 👋
 <br />
+
 - 🔭 I’m currently working on Algorithms Java Javascript React React-native Php Python Vue.js
 - 🌱 I’m currently learning TypeScript Nodejs Angular .NET Playframeworks
 - 👯 I’m looking to collaborate on Java React React-native Vue.js
