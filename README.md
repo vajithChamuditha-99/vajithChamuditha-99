@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning TypeScript Nodejs Angular .NET Playframeworks
 - 👯 I’m looking to collaborate on Java React React-native Vue.js
 - 📫 How to reach me: <a href="http://linkedin.com/in/vajith-chamuditha-9545b7195">Click here :) </a> 
-- 
+
 <br/>
 
 <h3> <b>Languages and Tools : </b> </h3>
