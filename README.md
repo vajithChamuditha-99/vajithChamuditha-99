@@ -38,7 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-//[![activity graph](https://activity-graph.herokuapp.com/graph?username=vajithChamuditha-99&theme=react-dark)](https://github.com/vajithChamuditha-99)
+/*[![activity graph](https://activity-graph.herokuapp.com/graph?username=vajithChamuditha-99&theme=react-dark)](https://github.com/vajithChamuditha-99)*/
 
 
 <br/>
