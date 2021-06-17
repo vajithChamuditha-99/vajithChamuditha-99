@@ -1,6 +1,7 @@
 
 ### Hi there, I'm [Vajith!](https://github.com/vajithChamuditha-99) 👋
 
+
 <br />
 
 - 🔭 I’m currently working on Algorithms Java Javascript React React-native Php Python Vue.js
