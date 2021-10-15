@@ -1,12 +1,11 @@
-
 ### Hi there, I'm [Vajith!](https://github.com/vajithChamuditha-99) 👋
 
 <br />
 
-- 🔭 I’m currently working on Algorithms Java Javascript React React-native Php Python Vue.js
+- 🔭 I’m currently working on Java Javascript React React-native Php Python Vue.js Springboot
 - 🌱 I’m currently learning TypeScript Nodejs Angular .NET Playframeworks
 - 👯 I’m looking to collaborate on Java React React-native Vue.js
-- 📫 How to reach me: <a href="http://linkedin.com/in/vajith-chamuditha-9545b7195">Click here :) </a> 
+- 📫 How to reach me: <a href="http://linkedin.com/in/vajith-chamuditha-9545b7195">Click here :) </a>
 
 <br/>
 <h3> <b>Languages and Tools : </b> </h3>
@@ -30,15 +29,11 @@
 
 ![Vajiths's github stats](https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=vajithChamuditha-99&theme=react-dark)](https://github.com/vajithChamuditha-99)
-
 
 <br/>
 <h3 align="left"><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</b></h3>
@@ -63,4 +58,3 @@
 <br/>
 
 ![nice day](https://i.pinimg.com/originals/0c/ea/a2/0ceaa250a0d8142f300a87e5d104fbc2.gif)
-
