@@ -1,8 +1,7 @@
 ### Hi there, I'm [Vajith!](https://github.com/vajithChamuditha-99) 👋
-<br />
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<br />
 
 ```javascript
 const Vajith = {
@@ -20,7 +19,6 @@ const Vajith = {
 <b> 🌐 Connect with Me</b><br/>
 Let's connect and collaborate on exciting projects! You can reach me on:
 
-<br/>
 <h3> <b>Languages and Tools : </b> </h3>
 <p>
 
