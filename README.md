@@ -3,6 +3,7 @@
 <br />
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <br />
+
 ```javascript
 const Vajith = {
   pronouns: "he" | "him",
@@ -16,8 +17,7 @@ const Vajith = {
 ```
 <br />
 
-# 🌐 Connect with Me
-Let's connect and collaborate on exciting projects! You can reach me on:
+
 
 <br/>
 <h3> <b>Languages and Tools : </b> </h3>
