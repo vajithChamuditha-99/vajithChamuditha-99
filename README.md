@@ -23,7 +23,7 @@ public class Vajith {
 ```
 
 <h3 align="left"> 🌐 Connect with Me</h3>
-Let's connect and collaborate on exciting projects! You can reach me on:
+Let's connect and collaborate on exciting projects! You can reach me on: <a href="mailto:vajithc@gmail.com">vajithc@gmail.com</a>
 
 <h3 align="left"> 🔭 Languages and Tools:</h3>
 
