@@ -33,7 +33,11 @@ Let's connect and collaborate on exciting projects! You can reach me on:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark"                alt="vajithChamuditha-99" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
