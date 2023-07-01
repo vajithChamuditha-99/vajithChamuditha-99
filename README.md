@@ -4,7 +4,6 @@
 
 ```java
 public class Vajith {
-    private String pronouns = "he | him";
     private String[] code = {"Java", "Javascript", "Typescript", "HTML", "CSS", "Python", "C#", "Php"};
     private String[] tools = {"Redux", "Node", "Styled-Components", "Docker", "Postman"};
     private String[] frameworks = {"React", "Spring Boot", "Angular", "Flask", "Vue.js", "React Native"};
@@ -13,8 +12,6 @@ public class Vajith {
 
     public static void main(String[] args) {
         Vajith vajith = new Vajith();
-
-        // Print profile information
         System.out.println("🕵️ Pronouns: " + vajith.getPronouns());
         System.out.println("🔭 Code: " + Arrays.toString(vajith.getCode()));
         System.out.println("🌱 Tools: " + Arrays.toString(vajith.getTools()));
