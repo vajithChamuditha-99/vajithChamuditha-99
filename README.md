@@ -1,11 +1,10 @@
 ### Hi there, I'm [Vajith!](https://github.com/vajithChamuditha-99) 👋
 
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Vajith = {
-  pronouns: "he" | "him",
+  🕵️ pronouns: "he" | "him",
   🔭 code: [Java, Javascript, Typescript, HTML, CSS, Python, C#, Php],
   🌱 tools: [Redux, Node, Styled-Components, Docker, Postman],
   👯 frameworks: [React, Spring boot, Angular, Flask, Vue.js, React-native],
