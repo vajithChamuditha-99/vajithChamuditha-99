@@ -25,7 +25,7 @@ public class Vajith {
 <h3 align="left"> 🌐 Connect with Me</h3>
 Let's connect and collaborate on exciting projects! You can reach me on:
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🔭 Languages and Tools:</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=java,js,py,androidstudio,angular,aws,bash,bootstrap,css,dart,discord,docker,eclipse,figma,firebase,flask,flutter,git,githubactions,gcp,gradle,html,idea,jquery,kubernetes,linux,materialui,mongodb,mysql,nodejs,ps,php,spring,sqlite,tensorflow,vim,vscode,wordpress,xd)
 
@@ -33,7 +33,7 @@ Let's connect and collaborate on exciting projects! You can reach me on:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=gotham" alt="vajithChamuditha-99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
