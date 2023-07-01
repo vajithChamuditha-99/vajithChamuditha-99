@@ -10,10 +10,6 @@ public class Vajith {
     private String[] frameworks = {"React", "Spring Boot", "Angular", "Flask", "Vue.js", "React Native"};
     private String[] architecture = {"microservices", "event-driven", "design system pattern"};
     private String[] interests = {"Java", "Machine learning", "Deep learning", "NLP"};
-    private String challenge = "I am doing the #100DaysOfCode challenge focused on React and Typescript";
-
-    // Getters and Setters
-    // ...
 
     public static void main(String[] args) {
         Vajith vajith = new Vajith();
@@ -25,7 +21,6 @@ public class Vajith {
         System.out.println("👯 Frameworks: " + Arrays.toString(vajith.getFrameworks()));
         System.out.println("📫 Architecture: " + Arrays.toString(vajith.getArchitecture()));
         System.out.println("🚀 Interests: " + Arrays.toString(vajith.getInterests()));
-        System.out.println("🎯 Challenge: " + vajith.getChallenge());
     }
 }
 ```
