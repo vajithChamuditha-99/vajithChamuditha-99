@@ -31,11 +31,12 @@ Let's connect and collaborate on exciting projects! You can reach me on:
 
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark" alt="vajithChamuditha-99">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=gotham" alt="vajithChamuditha-99">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8" alt="Top Langs">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8" alt="Top Langs">
   </a>
+  <img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif">
 </div>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
