@@ -29,13 +29,14 @@ Let's connect and collaborate on exciting projects! You can reach me on:
 
 ![My Skills](https://skillicons.dev/icons?i=java,js,py,androidstudio,angular,aws,bash,bootstrap,css,dart,discord,docker,eclipse,figma,firebase,flask,flutter,git,githubactions,gcp,gradle,html,idea,jquery,kubernetes,linux,materialui,mongodb,mysql,nodejs,ps,php,spring,sqlite,tensorflow,vim,vscode,wordpress,xd)
 
-<br/>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark" alt="vajithChamuditha-99">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=gotham" alt="vajithChamuditha-99">
+  <img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif">
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark"                alt="vajithChamuditha-99" /></p>
 
-<h3 align="left"> 📈 my github stats </h3>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=gotham" alt="vajithChamuditha-99" />
+<img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
 
