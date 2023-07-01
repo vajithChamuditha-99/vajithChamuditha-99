@@ -31,11 +31,11 @@ Let's connect and collaborate on exciting projects! You can reach me on:
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark"                alt="vajithChamuditha-99" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark"                alt="vajithChamuditha-99" /></p>
 
-📈 my github stats
+<h3 align="left"> 📈 my github stats </h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=gotham" alt="vajithChamuditha-99" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
 
