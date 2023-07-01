@@ -29,19 +29,22 @@ Let's connect and collaborate on exciting projects! You can reach me on:
 
 ![My Skills](https://skillicons.dev/icons?i=java,js,py,androidstudio,angular,aws,bash,bootstrap,css,dart,discord,docker,eclipse,figma,firebase,flask,flutter,git,githubactions,gcp,gradle,html,idea,jquery,kubernetes,linux,materialui,mongodb,mysql,nodejs,ps,php,spring,sqlite,tensorflow,vim,vscode,wordpress,xd)
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark" alt="vajithChamuditha-99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=gotham" alt="vajithChamuditha-99">
-</div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark"                alt="vajithChamuditha-99" /></p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=gotham" alt="vajithChamuditha-99" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vajithChamuditha-99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=vajithChamuditha-99&theme=react-dark)](https://github.com/vajithChamuditha-99)
 
 <br/>
+
+![build](https://github.com/vajithChamuditha-99/vajithChamuditha-99/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/vajithChamuditha-99/vajithChamuditha-99)
+![pv](https://pageview.vercel.app/?github_user=vajithChamuditha-99)
+
 <h3 align="left"><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</b></h3>
 
 <p align="left">
