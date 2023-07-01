@@ -4,22 +4,19 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const Vajith = {
+  pronouns: "he" | "him",
+  🔭 code: [Java, Javascript, Typescript, HTML, CSS, Python, C#, Php],
+  🌱 tools: [Redux, Node, Styled-Components, Docker, Postman],
+  👯 frameworks: [React, Spring boot, Angular, Flask, Vue.js, React-native],
+  📫 architecture: ["microservices", "event-driven", "design system pattern"],
+  🚀 interests: [Java, Machine learning, Deep learning, NLP],
+  🎯 challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 <br />
 
-- 🔭 I’m currently working on Java Javascript React React-native Php Python Vue.js Springboot NLP DL
+- 🔭 I’m currently working on Java Javascript React  Php Python Vue.js Springboot NLP DL
 - 🌱 I’m currently learning Nodejs Angular .NET Playframeworks
 - 👯 I’m looking to collaborate on Java React Machine learning
 - 📫 How to reach me: <a href="http://linkedin.com/in/vajith-chamuditha-9545b7195">Click here :) </a>
