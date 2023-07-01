@@ -43,16 +43,13 @@ Let's connect and collaborate on exciting projects! You can reach me on:
   </a>
   <img align="right" alt="coder-gif" width="400" src="https://github.com/Athindu/Athindu/blob/master/coder1.gif">
 </div>
-
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p>
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C289%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/vajithChamuditha-99/vajithChamuditha-99)
-![pv](https://pageview.vercel.app/?github_user=vajithChamuditha-99)
+![pv](https://pageview.vercel.app/?github_user=vajithChamuditha-99) </p>
 
 <h3 align="left"><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</b></h3>
 
