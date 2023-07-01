@@ -34,8 +34,8 @@ Let's connect and collaborate on exciting projects! You can reach me on:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark"                alt="vajithChamuditha-99" /></p>
 
 <br />
-![Vajiths's github stats](https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=blue-green) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Vajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vajithChamuditha-99" alt="vajithChamuditha-99" /></a> </p>
 
