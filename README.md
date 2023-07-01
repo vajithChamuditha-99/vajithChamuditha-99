@@ -2,9 +2,9 @@
 
 <br />
 
-- 🔭 I’m currently working on Java Javascript React React-native Php Python Vue.js Springboot
+- 🔭 I’m currently working on Java Javascript React React-native Php Python Vue.js Springboot NLP DL
 - 🌱 I’m currently learning Nodejs Angular .NET Playframeworks
-- 👯 I’m looking to collaborate on Java React React-native
+- 👯 I’m looking to collaborate on Java React Machine learning
 - 📫 How to reach me: <a href="http://linkedin.com/in/vajith-chamuditha-9545b7195">Click here :) </a>
 
 <br/>
