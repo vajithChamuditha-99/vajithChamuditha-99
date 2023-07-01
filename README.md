@@ -31,14 +31,8 @@ Let's connect and collaborate on exciting projects! You can reach me on:
 ![My Skills](https://skillicons.dev/icons?i=java,js,py,androidstudio,angular,aws,bash,bootstrap,css,dart,discord,docker,eclipse,figma,firebase,flask,flutter,git,githubactions,gcp,gradle,html,idea,jquery,kubernetes,linux,materialui,mongodb,mysql,nodejs,ps,php,spring,sqlite,tensorflow,vim,vscode,wordpress,xd)
 
 <br/>
-<br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=vajithChamuditha-99)
-
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark" alt="vajithChamuditha-99" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=dark"                alt="vajithChamuditha-99" /></p>
 
 <br />
 ![Vajiths's github stats](https://github-readme-stats.vercel.app/api?username=vajithChamuditha-99&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vajithChamuditha-99&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
