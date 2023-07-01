@@ -17,7 +17,8 @@ const Vajith = {
 ```
 <br />
 
-
+# 🌐 Connect with Me
+Let's connect and collaborate on exciting projects! You can reach me on:
 
 <br/>
 <h3> <b>Languages and Tools : </b> </h3>
