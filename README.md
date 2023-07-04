@@ -12,7 +12,6 @@ public class Vajith {
 
     public static void main(String[] args) {
         Vajith vajith = new Vajith();
-        System.out.println("🕵️ Pronouns: " + vajith.getPronouns());
         System.out.println("🔭 Code: " + Arrays.toString(vajith.getCode()));
         System.out.println("🌱 Tools: " + Arrays.toString(vajith.getTools()));
         System.out.println("👯 Frameworks: " + Arrays.toString(vajith.getFrameworks()));
