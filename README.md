@@ -24,6 +24,9 @@ public class Vajith {
 <h3 align="left"> 🌐 Connect with Me</h3>
 Let's connect and collaborate on exciting projects! You can reach me on: <a href="mailto:vajithc@gmail.com">vajithc@gmail.com</a>
 
+<h3 align="left"> 🧾️ Read my articles</h3>
+I regularly write articles on: <a href="https://medium.com/@vajithc">Medium</a>
+
 <h3 align="left"> 🔭 Languages and Tools:</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=java,js,py,androidstudio,angular,aws,bash,bootstrap,css,dart,discord,docker,eclipse,figma,firebase,flask,flutter,git,githubactions,gcp,gradle,html,idea,jquery,kubernetes,linux,materialui,mongodb,mysql,nodejs,ps,php,spring,sqlite,tensorflow,vim,vscode,wordpress,xd)
