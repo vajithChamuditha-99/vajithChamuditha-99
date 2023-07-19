@@ -25,7 +25,7 @@ public class Vajith {
 Let's connect and collaborate on exciting projects! You can reach me on: <a href="mailto:vajithc@gmail.com">vajithc@gmail.com</a>
 
 <h3 align="left"> 🧾️ Read my articles</h3>
-I regularly write articles on: <a href="https://medium.com/@vajithc">Medium</a>
+I regularly write articles on: <a href="https://medium.com/@vajithc">https://medium.com/@vajithc</a>
 
 <h3 align="left"> 🔭 Languages and Tools:</h3>
 
